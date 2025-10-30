@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body {
+    background: linear-gradient(to right, #f9f9f9, #e3f2fa, #f9f9f9);
+}
+
+
+
+
+html.dark body {
+   background: #11001F; 
+}
